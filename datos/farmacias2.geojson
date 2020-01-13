@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "farmacias",
+"name": "farmacias2",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "CODI_EQUIPAMENT": 75990000677, "EQUIPAMENT": "Farmàcia Salvado Lladós", "SECCIO": "#", "TIPUS_VIA": "Pg", "NOM_CARRER": "Sant Joan", "NUM_CARRER_1": 2, "NUM_CARRER_2": 2, "CODI_BARRI": 5, "NUM_BARRI": "el Fort Pienc", "CODI_DISTRICTE": 2, "NOM_DISTRICTE": "Eixample", "CODI_POSTAL": 8010, "CODI_POBLACIO": 19, "POBLACIO": "BARCELONA", "LATITUD": 41.391732, "LONGITUD": 2.180345, "X_ETRS89": 431475.211, "Y_ETRS89": 4582568.622, "X_ED50": 431567.153, "Y_ED50": 4582769.562, "TELEFON_NUM": "932314605", "TELEFON_TIPUS": "Tel.", "TELEFON_INFO_COM": null, "HORARI_PERIODE_INICI": "01\/01", "HORARI_PERIODE_FI": "31\/12", "HORARI_DIES": 0, "HORARI_HORES_INICI": "09:00:00", "HORARI_HORES_FI": "22:00:00", "HORARI_OBSERVACIONS": " " }, "geometry": { "type": "Point", "coordinates": [ 2.180345, 41.391732 ] } },
